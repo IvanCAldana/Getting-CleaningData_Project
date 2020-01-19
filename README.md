@@ -1,4 +1,4 @@
-# Getting-CleaningData_Project
+# GETTING AND CLEANING DATA PROJECT
 Project for course Getting and Cleaning Data of Jhon Hopkins University
 
 The script I wrote in Rstudio is attached in this repo as Run_analysis.R, and it intends to be self-explanatory by using comments troughout the code.
@@ -14,4 +14,4 @@ The basic guidelines are given as follows:
 #   for each activity and each subject
 #   Good luck!
 
-The summarized process, variables used/processed and its units as well as the final Tidy Dataset are all explained in the Codebook.md of this repo.
+The summarized process, variables extracted and its units as well as the final Tidy Dataset are all explained in the Codebook.md of this repo.
